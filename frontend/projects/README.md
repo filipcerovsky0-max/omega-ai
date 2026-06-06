@@ -1,0 +1,3 @@
+# Projects
+
+Projects management component.
